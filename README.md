@@ -36,7 +36,9 @@ extend toward adaptive learning and unknown-failure handling.
 5. **Interpretability** — SHAP (TreeExplainer) on the tuned XGBoost model.
 6. **Unsupervised cross-check** — K-Means (k=6).
 
-## Results (weighted F1-Score, test set)
+## Results (test set)
+
+**Best model: tuned LightGBM — 99.00% accuracy (0.9900), 0.9878 weighted F1-Score.**
 
 | Model | Accuracy | F1-Score |
 |-------|----------|----------|
