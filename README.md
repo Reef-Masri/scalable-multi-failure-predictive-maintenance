@@ -1,6 +1,6 @@
 # Scalable Multi-Failure Predictive Maintenance System with Confidence-Based Prioritization and Resilience to Unknown Failures
 
-COE305 Machine Learning — Final Project
+Machine Learning — Project
 
 A machine learning pipeline that classifies multiple industrial machine failure types
 from historical sensor data, with a single reusable scikit-learn preprocessing pipeline
